@@ -1,0 +1,28 @@
+body {
+  background-color: #000;
+  color: #00ff00;
+  font-family: monospace;
+}
+
+#terminal {
+  width: 90%;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.prompt {
+  margin-right: 5px;
+}
+
+input {
+  background: none;
+  border: none;
+  color: #00ff00;
+  outline: none;
+  width: 90%;
+}
+
+a {
+  color: #00ffff;
+  text-decoration: none;
+}
